@@ -1,7 +1,7 @@
 [![MasterHead](https://giffiles.alphacoders.com/174/174807.gif)](https://github.com/NetanelYaso/NetanelYaso)
-<h1 align="center">Hi 👋, I'm Netanel Yaso</h1>
+<h1 align="center">So Hello 👋 There, I'm Netanel Yaso</h1>
 <h3 align="center">A passionate full stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif">
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/UnfitPitifulHoatzin-size_restricted.gif">
 
 - 🌱 I’m currently learning **Firebase, and Web accessibility tools**
 
