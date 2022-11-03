@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 🌱 I’m currently learning **Firebase, and Web accessibility tools**
+- 🌱 I’m currently learning **Backend, and Web accessibility tools**
 
 - 👨‍💻 All of my projects are available at [{comming soon...}]({comming soon...})
 
