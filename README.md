@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [{comming soon...}]({comming soon...})
 
-- 💬 Ask me about **state manegment in react and redux, javascript, js engein react, react hooks, css3, html5,typescript, front-end development**
+- 💬 Ask me about **state manegment in react, javascript, js engein, react, react hooks, css3, html5, typescript, front-end development**
 
 - 📫 How to reach me **www.linkedin.com**
 
