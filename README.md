@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif)](https://github.com/NetanelYaso/NetanelYaso)
 <h1 align="center">So Hello 👋 There, I'm Netanel Yaso</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">⚡A passionate full stack developer⚡</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 - 🌱 I’m currently learning **Web accessibility tools**
